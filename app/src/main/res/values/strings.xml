@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Examen Mercadolibre</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_select_payment">Payment method</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
